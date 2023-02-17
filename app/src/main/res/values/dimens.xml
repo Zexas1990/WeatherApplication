@@ -2,4 +2,9 @@
 <resources>
     <dimen name="margin">16dp</dimen>
     <dimen name="btn">20sp</dimen>
+    <dimen name="tv_city_size">35sp</dimen>
+    <dimen name="iv_size">100dp</dimen>
+    <dimen name="tv_hora_size">30sp</dimen>
+    <dimen name="tv_temp_size">120sp</dimen>
+    <dimen name="tv_size_tit">30sp</dimen>
 </resources>

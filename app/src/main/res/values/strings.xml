@@ -3,4 +3,7 @@
     <string name="latitud">Latitud</string>
     <string name="longitud">Longitud</string>
     <string name="bt_consultar">CONSULTAR TIEMPO</string>
+    <string name="tv_humedad">HUMEDAD</string>
+    <string name="tv_lluvia">LLUVIA</string>
+    <string name="no_network">Sin conexión</string>
 </resources>
